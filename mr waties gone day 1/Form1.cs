@@ -16,5 +16,10 @@ namespace mr_waties_gone_day_1
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
