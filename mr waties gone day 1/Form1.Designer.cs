@@ -65,6 +65,7 @@
             this.label29 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.NewGameButton = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -485,6 +486,18 @@
             this.textBox1.Size = new System.Drawing.Size(290, 48);
             this.textBox1.TabIndex = 10;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
+            // 
+            // NewGameButton
+            // 
+            this.NewGameButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.NewGameButton.Location = new System.Drawing.Point(72, 687);
+            this.NewGameButton.Name = "NewGameButton";
+            this.NewGameButton.Size = new System.Drawing.Size(290, 64);
+            this.NewGameButton.TabIndex = 11;
+            this.NewGameButton.Text = "button1";
+            this.NewGameButton.UseVisualStyleBackColor = true;
+            this.NewGameButton.Click += new System.EventHandler(this.NewGameButton_Click);
             // 
             // Form1
             // 
@@ -492,6 +505,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Desktop;
             this.ClientSize = new System.Drawing.Size(483, 790);
+            this.Controls.Add(this.NewGameButton);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel6);
@@ -558,6 +572,7 @@
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label30;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button NewGameButton;
     }
 }
 
