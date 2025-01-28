@@ -30,9 +30,16 @@ namespace mr_waties_gone_day_1
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (e.KeyChar == 13)
+            if (e.KeyChar == 13 && currentword == InputTextBox.Text)
             {
-                
+                MessageBox.Show("farrrt");
+            }
+            else if (e.KeyChar == 13 && currentword != InputTextBox.Text)
+            {
+                foreach (char letter in InputTextBox.Text)
+                {
+                    MessageBox.Show(letter + "");
+                }
             }
         }
         public string currentword = "";
