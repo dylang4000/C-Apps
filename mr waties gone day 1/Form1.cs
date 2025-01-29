@@ -27,24 +27,28 @@ namespace mr_waties_gone_day_1
         {
 
         }
-
+        public int attempts=0;
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (e.KeyChar == 13 && currentword == InputTextBox.Text)
             {
                 MessageBox.Show("farrrt");
+                attempts--;
             }
             else if (e.KeyChar == 13 && currentword != InputTextBox.Text)
             {
                 foreach (char letter in InputTextBox.Text)
                 {
                     MessageBox.Show(letter + "");
+
                 }
+                attempts--;
             }
         }
         public string currentword = "";
         private void NewGameButton_Click(object sender, EventArgs e)
         {
+            InputTextBox.Enabled = true;
             Random rnd = new Random();
             NewGameButton.Visible = false;
             currentword = wordbank[(rnd.Next(1, 3103))];
