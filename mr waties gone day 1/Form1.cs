@@ -44,11 +44,8 @@ namespace mr_waties_gone_day_1
                     MessageBox.Show(letter + ""+ currentguess[0]);
                     if (attempts == 1)
                     {
-                        firstattempt1.Text = (currentguess[0] + "");
-                        firstattempt2.Text = (currentguess[1] + "");
-                        firstattempt3.Text = (currentguess[2] + "");
-                        firstattempt4.Text = (currentguess[3] + "");
-                        firstattempt5.Text = (currentguess[4] + "");
+                        // change to switch expression
+                        
 
                     }
 
