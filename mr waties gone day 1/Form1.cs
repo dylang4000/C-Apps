@@ -33,16 +33,26 @@ namespace mr_waties_gone_day_1
             if (e.KeyChar == 13 && currentword == InputTextBox.Text)
             {
                 MessageBox.Show("farrrt");
-                attempts--;
+                attempts++;
             }
             else if (e.KeyChar == 13 && currentword != InputTextBox.Text)
             {
+                attempts++;
                 foreach (char letter in InputTextBox.Text)
                 {
-                    MessageBox.Show(letter + "");
+                    string currentguess = InputTextBox.Text;
+                    MessageBox.Show(letter + ""+ currentguess[0]);
+                    if (attempts == 1)
+                    {
+                        firstattempt1.Text = (currentguess[0] + "");
+                        firstattempt2.Text = (currentguess[1] + "");
+                        firstattempt3.Text = (currentguess[2] + "");
+                        firstattempt4.Text = (currentguess[3] + "");
+                        firstattempt5.Text = (currentguess[4] + "");
+                    }
 
                 }
-                attempts--;
+                
             }
         }
         public string currentword = "";
