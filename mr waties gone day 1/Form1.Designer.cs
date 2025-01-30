@@ -35,11 +35,11 @@
             this.firstattempt4 = new System.Windows.Forms.Label();
             this.firstattempt1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
+            this.secondattempt5 = new System.Windows.Forms.Label();
+            this.secondattempt2 = new System.Windows.Forms.Label();
+            this.secondattempt3 = new System.Windows.Forms.Label();
+            this.secondattempt4 = new System.Windows.Forms.Label();
+            this.secondattempt1 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
@@ -151,76 +151,76 @@
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.label6);
-            this.panel2.Controls.Add(this.label7);
-            this.panel2.Controls.Add(this.label8);
-            this.panel2.Controls.Add(this.label9);
-            this.panel2.Controls.Add(this.label10);
+            this.panel2.Controls.Add(this.secondattempt5);
+            this.panel2.Controls.Add(this.secondattempt2);
+            this.panel2.Controls.Add(this.secondattempt3);
+            this.panel2.Controls.Add(this.secondattempt4);
+            this.panel2.Controls.Add(this.secondattempt1);
             this.panel2.Location = new System.Drawing.Point(48, 125);
             this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(193, 53);
             this.panel2.TabIndex = 5;
             // 
-            // label6
+            // secondattempt5
             // 
-            this.label6.AutoSize = true;
-            this.label6.BackColor = System.Drawing.Color.Gray;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(147, 16);
-            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(31, 29);
-            this.label6.TabIndex = 4;
-            this.label6.Text = "X";
+            this.secondattempt5.AutoSize = true;
+            this.secondattempt5.BackColor = System.Drawing.Color.Gray;
+            this.secondattempt5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.secondattempt5.Location = new System.Drawing.Point(147, 16);
+            this.secondattempt5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt5.Name = "secondattempt5";
+            this.secondattempt5.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt5.TabIndex = 4;
+            this.secondattempt5.Text = "X";
             // 
-            // label7
+            // secondattempt2
             // 
-            this.label7.AutoSize = true;
-            this.label7.BackColor = System.Drawing.Color.Gray;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(51, 16);
-            this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(31, 29);
-            this.label7.TabIndex = 3;
-            this.label7.Text = "X";
+            this.secondattempt2.AutoSize = true;
+            this.secondattempt2.BackColor = System.Drawing.Color.Gray;
+            this.secondattempt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.secondattempt2.Location = new System.Drawing.Point(51, 16);
+            this.secondattempt2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt2.Name = "secondattempt2";
+            this.secondattempt2.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt2.TabIndex = 3;
+            this.secondattempt2.Text = "X";
             // 
-            // label8
+            // secondattempt3
             // 
-            this.label8.AutoSize = true;
-            this.label8.BackColor = System.Drawing.Color.Gray;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(83, 16);
-            this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(31, 29);
-            this.label8.TabIndex = 2;
-            this.label8.Text = "X";
+            this.secondattempt3.AutoSize = true;
+            this.secondattempt3.BackColor = System.Drawing.Color.Gray;
+            this.secondattempt3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.secondattempt3.Location = new System.Drawing.Point(83, 16);
+            this.secondattempt3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt3.Name = "secondattempt3";
+            this.secondattempt3.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt3.TabIndex = 2;
+            this.secondattempt3.Text = "X";
             // 
-            // label9
+            // secondattempt4
             // 
-            this.label9.AutoSize = true;
-            this.label9.BackColor = System.Drawing.Color.Gray;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(115, 16);
-            this.label9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(31, 29);
-            this.label9.TabIndex = 1;
-            this.label9.Text = "X";
+            this.secondattempt4.AutoSize = true;
+            this.secondattempt4.BackColor = System.Drawing.Color.Gray;
+            this.secondattempt4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.secondattempt4.Location = new System.Drawing.Point(115, 16);
+            this.secondattempt4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt4.Name = "secondattempt4";
+            this.secondattempt4.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt4.TabIndex = 1;
+            this.secondattempt4.Text = "X";
             // 
-            // label10
+            // secondattempt1
             // 
-            this.label10.AutoSize = true;
-            this.label10.BackColor = System.Drawing.Color.Gray;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(19, 16);
-            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(31, 29);
-            this.label10.TabIndex = 0;
-            this.label10.Text = "X";
+            this.secondattempt1.AutoSize = true;
+            this.secondattempt1.BackColor = System.Drawing.Color.Gray;
+            this.secondattempt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.secondattempt1.Location = new System.Drawing.Point(16, 16);
+            this.secondattempt1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt1.Name = "secondattempt1";
+            this.secondattempt1.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt1.TabIndex = 0;
+            this.secondattempt1.Text = "X";
             // 
             // panel3
             // 
@@ -582,11 +582,11 @@
         private System.Windows.Forms.Label firstattempt3;
         private System.Windows.Forms.Label firstattempt4;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label secondattempt5;
+        private System.Windows.Forms.Label secondattempt2;
+        private System.Windows.Forms.Label secondattempt3;
+        private System.Windows.Forms.Label secondattempt4;
+        private System.Windows.Forms.Label secondattempt1;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;

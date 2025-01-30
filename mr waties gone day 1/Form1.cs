@@ -35,18 +35,43 @@ namespace mr_waties_gone_day_1
                 MessageBox.Show("farrrt");
                 attempts++;
             }
-            else if (e.KeyChar == 13 && currentword != InputTextBox.Text)
+            else if (e.KeyChar == 13 && currentword != InputTextBox.Text && currentword.Length==5)
             {
                 attempts++;
                 foreach (char letter in InputTextBox.Text)
                 {
                     string currentguess = InputTextBox.Text;
-                    MessageBox.Show(letter + ""+ currentguess[0]);
-                    if (attempts == 1)
+                    //MessageBox.Show(letter + ""+ currentguess[0]);
+                    switch (attempts)
                     {
-                        // change to switch expression
-                        
-
+                        case 1:
+                            firstattempt1.Text = currentguess[0] + "";
+                            firstattempt2.Text = currentguess[1] + "";
+                            firstattempt3.Text = currentguess[2] + "";
+                            firstattempt4.Text = currentguess[3] + "";
+                            firstattempt5.Text = currentguess[4] + "";
+                            InputTextBox.Text = "";
+                            break;
+                        case 2:
+                            secondattempt1.Text = currentguess[0] + "";
+                            secondattempt2.Text = currentguess[1] + "";
+                            secondattempt3.Text = currentguess[2] + "";
+                            secondattempt4.Text = currentguess[3] + "";
+                            secondattempt5.Text = currentguess[4] + "";
+                            InputTextBox.Text = "";
+                            break;
+                        case 3:
+                            MessageBox.Show("asdf");
+                            break;
+                        case 4:
+                            MessageBox.Show("asdf");
+                            break;
+                        case 5:
+                            MessageBox.Show("asdf");
+                            break;
+                        case 6:
+                            MessageBox.Show("asdf");
+                            break;
                     }
 
                 }
