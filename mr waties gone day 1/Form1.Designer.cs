@@ -105,6 +105,7 @@
             this.firstattempt2.AutoSize = true;
             this.firstattempt2.BackColor = System.Drawing.Color.Gray;
             this.firstattempt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.firstattempt2.ForeColor = System.Drawing.SystemColors.Window;
             this.firstattempt2.Location = new System.Drawing.Point(51, 16);
             this.firstattempt2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.firstattempt2.Name = "firstattempt2";
@@ -141,6 +142,7 @@
             this.firstattempt1.AutoSize = true;
             this.firstattempt1.BackColor = System.Drawing.Color.Gray;
             this.firstattempt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.firstattempt1.ForeColor = System.Drawing.SystemColors.Window;
             this.firstattempt1.Location = new System.Drawing.Point(19, 16);
             this.firstattempt1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.firstattempt1.Name = "firstattempt1";
@@ -552,7 +554,7 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel1);
-            this.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ForeColor = System.Drawing.SystemColors.Window;
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";

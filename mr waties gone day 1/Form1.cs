@@ -46,10 +46,21 @@ namespace mr_waties_gone_day_1
                     {
                         case 1:
                             firstattempt1.Text = currentguess[0] + "";
+                            if (currentguess[0] == currentword[0]) { firstattempt1.BackColor = Color.Green; }
+                            else if (currentword.Contains(currentguess[0]) == true) { firstattempt1.BackColor = Color.Yellow; firstattempt1.ForeColor = Color.Black;}
+                    
+                            
+                                
+                              
+                           
                             firstattempt2.Text = currentguess[1] + "";
+                            
                             firstattempt3.Text = currentguess[2] + "";
+                            
                             firstattempt4.Text = currentguess[3] + "";
+                            
                             firstattempt5.Text = currentguess[4] + "";
+                            
                             InputTextBox.Text = "";
                             break;
                         case 2:
