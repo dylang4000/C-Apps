@@ -54,22 +54,26 @@ namespace mr_waties_gone_day_1
                               
                            
                             firstattempt2.Text = currentguess[1] + "";
-                            
+                            if (currentguess[1] == currentword[1]) { firstattempt2.BackColor = Color.Green; } else if (currentword.Contains(currentguess[1]) == true) { firstattempt2.BackColor = Color.Yellow; firstattempt2.ForeColor = Color.Black; }
                             firstattempt3.Text = currentguess[2] + "";
-                            
+                            if (currentguess[2] == currentword[2]) { firstattempt3.BackColor = Color.Green; } else if (currentword.Contains(currentguess[2]) == true) { firstattempt3.BackColor = Color.Yellow; firstattempt3.ForeColor = Color.Black; }
                             firstattempt4.Text = currentguess[3] + "";
-                            
+                            if (currentguess[3] == currentword[3]) { firstattempt4.BackColor = Color.Green; } else if (currentword.Contains(currentguess[3]) == true) { firstattempt4.BackColor = Color.Yellow; firstattempt4.ForeColor = Color.Black; }
                             firstattempt5.Text = currentguess[4] + "";
-                            
+                            if (currentguess[4] == currentword[4]) { firstattempt5.BackColor = Color.Green; } else if (currentword.Contains(currentguess[4]) == true) { firstattempt5.BackColor = Color.Yellow; firstattempt5.ForeColor = Color.Black; }
                             InputTextBox.Text = "";
                             break;
                         case 2:
+                            if (currentguess[0] == currentword[0]) { secondattempt1.BackColor = Color.Green; } else if (currentword.Contains(currentguess[0]) == true) { secondattempt1.BackColor = Color.Yellow; secondattempt1.ForeColor = Color.Black; }
                             secondattempt1.Text = currentguess[0] + "";
+                            if (currentguess[1] == currentword[1]) { secondattempt2.BackColor = Color.Green; } else if (currentword.Contains(currentguess[1]) == true) { secondattempt2.BackColor = Color.Yellow; secondattempt2.ForeColor = Color.Black; }
                             secondattempt2.Text = currentguess[1] + "";
+                            if (currentguess[2] == currentword[2]) { secondattempt3.BackColor = Color.Green; } else if (currentword.Contains(currentguess[2]) == true) { secondattempt3.BackColor = Color.Yellow; secondattempt3.ForeColor = Color.Black; }
                             secondattempt3.Text = currentguess[2] + "";
+                            if (currentguess[3] == currentword[3]) { secondattempt4.BackColor = Color.Green; } else if (currentword.Contains(currentguess[3]) == true) { secondattempt4.BackColor = Color.Yellow; secondattempt4.ForeColor = Color.Black; }
                             secondattempt4.Text = currentguess[3] + "";
+                            if (currentguess[4] == currentword[4]) { secondattempt5.BackColor = Color.Green; } else if (currentword.Contains(currentguess[4]) == true) { secondattempt5.BackColor = Color.Yellow; secondattempt5.ForeColor = Color.Black; }
                             secondattempt5.Text = currentguess[4] + "";
-                            InputTextBox.Text = "";
                             break;
                         case 3:
                             MessageBox.Show("asdf");
