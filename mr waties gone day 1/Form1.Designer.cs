@@ -41,29 +41,29 @@
             this.secondattempt4 = new System.Windows.Forms.Label();
             this.secondattempt1 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
+            this.fourthattempt5 = new System.Windows.Forms.Label();
+            this.fourthattempt2 = new System.Windows.Forms.Label();
+            this.fourthattempt3 = new System.Windows.Forms.Label();
+            this.fourthattempt4 = new System.Windows.Forms.Label();
+            this.fourthattempt1 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
+            this.thirdattempt5 = new System.Windows.Forms.Label();
+            this.thirdattempt2 = new System.Windows.Forms.Label();
+            this.thirdattempt3 = new System.Windows.Forms.Label();
+            this.thirdattempt4 = new System.Windows.Forms.Label();
+            this.thirdattempt1 = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
+            this.sixthattempt5 = new System.Windows.Forms.Label();
+            this.sixthattempt2 = new System.Windows.Forms.Label();
+            this.sixthattempt3 = new System.Windows.Forms.Label();
+            this.sixthattempt4 = new System.Windows.Forms.Label();
+            this.sixthattempt1 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.label26 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
+            this.fifthattempt5 = new System.Windows.Forms.Label();
+            this.fifthattempt2 = new System.Windows.Forms.Label();
+            this.fifthattempt3 = new System.Windows.Forms.Label();
+            this.fifthattempt4 = new System.Windows.Forms.Label();
+            this.fifthattempt1 = new System.Windows.Forms.Label();
             this.InputTextBox = new System.Windows.Forms.TextBox();
             this.NewGameButton = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
@@ -82,10 +82,9 @@
             this.panel1.Controls.Add(this.firstattempt3);
             this.panel1.Controls.Add(this.firstattempt4);
             this.panel1.Controls.Add(this.firstattempt1);
-            this.panel1.Location = new System.Drawing.Point(48, 68);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(72, 105);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(193, 53);
+            this.panel1.Size = new System.Drawing.Size(290, 82);
             this.panel1.TabIndex = 0;
             // 
             // firstattempt5
@@ -93,10 +92,9 @@
             this.firstattempt5.AutoSize = true;
             this.firstattempt5.BackColor = System.Drawing.Color.Gray;
             this.firstattempt5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.firstattempt5.Location = new System.Drawing.Point(147, 16);
-            this.firstattempt5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.firstattempt5.Location = new System.Drawing.Point(220, 25);
             this.firstattempt5.Name = "firstattempt5";
-            this.firstattempt5.Size = new System.Drawing.Size(31, 29);
+            this.firstattempt5.Size = new System.Drawing.Size(42, 40);
             this.firstattempt5.TabIndex = 4;
             this.firstattempt5.Text = "X";
             // 
@@ -106,10 +104,9 @@
             this.firstattempt2.BackColor = System.Drawing.Color.Gray;
             this.firstattempt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.firstattempt2.ForeColor = System.Drawing.SystemColors.Window;
-            this.firstattempt2.Location = new System.Drawing.Point(51, 16);
-            this.firstattempt2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.firstattempt2.Location = new System.Drawing.Point(76, 25);
             this.firstattempt2.Name = "firstattempt2";
-            this.firstattempt2.Size = new System.Drawing.Size(31, 29);
+            this.firstattempt2.Size = new System.Drawing.Size(42, 40);
             this.firstattempt2.TabIndex = 3;
             this.firstattempt2.Text = "X";
             // 
@@ -118,10 +115,9 @@
             this.firstattempt3.AutoSize = true;
             this.firstattempt3.BackColor = System.Drawing.Color.Gray;
             this.firstattempt3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.firstattempt3.Location = new System.Drawing.Point(83, 16);
-            this.firstattempt3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.firstattempt3.Location = new System.Drawing.Point(124, 25);
             this.firstattempt3.Name = "firstattempt3";
-            this.firstattempt3.Size = new System.Drawing.Size(31, 29);
+            this.firstattempt3.Size = new System.Drawing.Size(42, 40);
             this.firstattempt3.TabIndex = 2;
             this.firstattempt3.Text = "X";
             // 
@@ -130,10 +126,9 @@
             this.firstattempt4.AutoSize = true;
             this.firstattempt4.BackColor = System.Drawing.Color.Gray;
             this.firstattempt4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.firstattempt4.Location = new System.Drawing.Point(115, 16);
-            this.firstattempt4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.firstattempt4.Location = new System.Drawing.Point(172, 25);
             this.firstattempt4.Name = "firstattempt4";
-            this.firstattempt4.Size = new System.Drawing.Size(31, 29);
+            this.firstattempt4.Size = new System.Drawing.Size(42, 40);
             this.firstattempt4.TabIndex = 1;
             this.firstattempt4.Text = "X";
             // 
@@ -143,10 +138,9 @@
             this.firstattempt1.BackColor = System.Drawing.Color.Gray;
             this.firstattempt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.firstattempt1.ForeColor = System.Drawing.SystemColors.Window;
-            this.firstattempt1.Location = new System.Drawing.Point(19, 16);
-            this.firstattempt1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.firstattempt1.Location = new System.Drawing.Point(28, 25);
             this.firstattempt1.Name = "firstattempt1";
-            this.firstattempt1.Size = new System.Drawing.Size(31, 29);
+            this.firstattempt1.Size = new System.Drawing.Size(42, 40);
             this.firstattempt1.TabIndex = 0;
             this.firstattempt1.Text = "X";
             this.firstattempt1.Click += new System.EventHandler(this.label1_Click);
@@ -158,10 +152,9 @@
             this.panel2.Controls.Add(this.secondattempt3);
             this.panel2.Controls.Add(this.secondattempt4);
             this.panel2.Controls.Add(this.secondattempt1);
-            this.panel2.Location = new System.Drawing.Point(48, 125);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
+            this.panel2.Location = new System.Drawing.Point(72, 192);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(193, 53);
+            this.panel2.Size = new System.Drawing.Size(290, 82);
             this.panel2.TabIndex = 5;
             // 
             // secondattempt5
@@ -169,10 +162,9 @@
             this.secondattempt5.AutoSize = true;
             this.secondattempt5.BackColor = System.Drawing.Color.Gray;
             this.secondattempt5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.secondattempt5.Location = new System.Drawing.Point(147, 16);
-            this.secondattempt5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt5.Location = new System.Drawing.Point(220, 25);
             this.secondattempt5.Name = "secondattempt5";
-            this.secondattempt5.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt5.Size = new System.Drawing.Size(42, 40);
             this.secondattempt5.TabIndex = 4;
             this.secondattempt5.Text = "X";
             // 
@@ -181,10 +173,9 @@
             this.secondattempt2.AutoSize = true;
             this.secondattempt2.BackColor = System.Drawing.Color.Gray;
             this.secondattempt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.secondattempt2.Location = new System.Drawing.Point(51, 16);
-            this.secondattempt2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt2.Location = new System.Drawing.Point(76, 25);
             this.secondattempt2.Name = "secondattempt2";
-            this.secondattempt2.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt2.Size = new System.Drawing.Size(42, 40);
             this.secondattempt2.TabIndex = 3;
             this.secondattempt2.Text = "X";
             // 
@@ -193,10 +184,9 @@
             this.secondattempt3.AutoSize = true;
             this.secondattempt3.BackColor = System.Drawing.Color.Gray;
             this.secondattempt3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.secondattempt3.Location = new System.Drawing.Point(83, 16);
-            this.secondattempt3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt3.Location = new System.Drawing.Point(124, 25);
             this.secondattempt3.Name = "secondattempt3";
-            this.secondattempt3.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt3.Size = new System.Drawing.Size(42, 40);
             this.secondattempt3.TabIndex = 2;
             this.secondattempt3.Text = "X";
             // 
@@ -205,10 +195,9 @@
             this.secondattempt4.AutoSize = true;
             this.secondattempt4.BackColor = System.Drawing.Color.Gray;
             this.secondattempt4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.secondattempt4.Location = new System.Drawing.Point(115, 16);
-            this.secondattempt4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt4.Location = new System.Drawing.Point(172, 25);
             this.secondattempt4.Name = "secondattempt4";
-            this.secondattempt4.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt4.Size = new System.Drawing.Size(42, 40);
             this.secondattempt4.TabIndex = 1;
             this.secondattempt4.Text = "X";
             // 
@@ -217,313 +206,287 @@
             this.secondattempt1.AutoSize = true;
             this.secondattempt1.BackColor = System.Drawing.Color.Gray;
             this.secondattempt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.secondattempt1.Location = new System.Drawing.Point(16, 16);
-            this.secondattempt1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.secondattempt1.Location = new System.Drawing.Point(24, 25);
             this.secondattempt1.Name = "secondattempt1";
-            this.secondattempt1.Size = new System.Drawing.Size(31, 29);
+            this.secondattempt1.Size = new System.Drawing.Size(42, 40);
             this.secondattempt1.TabIndex = 0;
             this.secondattempt1.Text = "X";
             // 
             // panel3
             // 
-            this.panel3.Controls.Add(this.label11);
-            this.panel3.Controls.Add(this.label12);
-            this.panel3.Controls.Add(this.label13);
-            this.panel3.Controls.Add(this.label14);
-            this.panel3.Controls.Add(this.label15);
-            this.panel3.Location = new System.Drawing.Point(48, 240);
-            this.panel3.Margin = new System.Windows.Forms.Padding(2);
+            this.panel3.Controls.Add(this.fourthattempt5);
+            this.panel3.Controls.Add(this.fourthattempt2);
+            this.panel3.Controls.Add(this.fourthattempt3);
+            this.panel3.Controls.Add(this.fourthattempt4);
+            this.panel3.Controls.Add(this.fourthattempt1);
+            this.panel3.Location = new System.Drawing.Point(72, 369);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(193, 53);
+            this.panel3.Size = new System.Drawing.Size(290, 82);
             this.panel3.TabIndex = 7;
             // 
-            // label11
+            // fourthattempt5
             // 
-            this.label11.AutoSize = true;
-            this.label11.BackColor = System.Drawing.Color.Gray;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(147, 16);
-            this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(31, 29);
-            this.label11.TabIndex = 4;
-            this.label11.Text = "X";
+            this.fourthattempt5.AutoSize = true;
+            this.fourthattempt5.BackColor = System.Drawing.Color.Gray;
+            this.fourthattempt5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fourthattempt5.Location = new System.Drawing.Point(220, 25);
+            this.fourthattempt5.Name = "fourthattempt5";
+            this.fourthattempt5.Size = new System.Drawing.Size(42, 40);
+            this.fourthattempt5.TabIndex = 4;
+            this.fourthattempt5.Text = "X";
             // 
-            // label12
+            // fourthattempt2
             // 
-            this.label12.AutoSize = true;
-            this.label12.BackColor = System.Drawing.Color.Gray;
-            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(51, 16);
-            this.label12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(31, 29);
-            this.label12.TabIndex = 3;
-            this.label12.Text = "X";
+            this.fourthattempt2.AutoSize = true;
+            this.fourthattempt2.BackColor = System.Drawing.Color.Gray;
+            this.fourthattempt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fourthattempt2.Location = new System.Drawing.Point(76, 25);
+            this.fourthattempt2.Name = "fourthattempt2";
+            this.fourthattempt2.Size = new System.Drawing.Size(42, 40);
+            this.fourthattempt2.TabIndex = 3;
+            this.fourthattempt2.Text = "X";
             // 
-            // label13
+            // fourthattempt3
             // 
-            this.label13.AutoSize = true;
-            this.label13.BackColor = System.Drawing.Color.Gray;
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(83, 16);
-            this.label13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(31, 29);
-            this.label13.TabIndex = 2;
-            this.label13.Text = "X";
+            this.fourthattempt3.AutoSize = true;
+            this.fourthattempt3.BackColor = System.Drawing.Color.Gray;
+            this.fourthattempt3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fourthattempt3.Location = new System.Drawing.Point(124, 25);
+            this.fourthattempt3.Name = "fourthattempt3";
+            this.fourthattempt3.Size = new System.Drawing.Size(42, 40);
+            this.fourthattempt3.TabIndex = 2;
+            this.fourthattempt3.Text = "X";
             // 
-            // label14
+            // fourthattempt4
             // 
-            this.label14.AutoSize = true;
-            this.label14.BackColor = System.Drawing.Color.Gray;
-            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(115, 16);
-            this.label14.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(31, 29);
-            this.label14.TabIndex = 1;
-            this.label14.Text = "X";
+            this.fourthattempt4.AutoSize = true;
+            this.fourthattempt4.BackColor = System.Drawing.Color.Gray;
+            this.fourthattempt4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fourthattempt4.Location = new System.Drawing.Point(172, 25);
+            this.fourthattempt4.Name = "fourthattempt4";
+            this.fourthattempt4.Size = new System.Drawing.Size(42, 40);
+            this.fourthattempt4.TabIndex = 1;
+            this.fourthattempt4.Text = "X";
             // 
-            // label15
+            // fourthattempt1
             // 
-            this.label15.AutoSize = true;
-            this.label15.BackColor = System.Drawing.Color.Gray;
-            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(19, 16);
-            this.label15.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(31, 29);
-            this.label15.TabIndex = 0;
-            this.label15.Text = "X";
+            this.fourthattempt1.AutoSize = true;
+            this.fourthattempt1.BackColor = System.Drawing.Color.Gray;
+            this.fourthattempt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fourthattempt1.Location = new System.Drawing.Point(28, 25);
+            this.fourthattempt1.Name = "fourthattempt1";
+            this.fourthattempt1.Size = new System.Drawing.Size(42, 40);
+            this.fourthattempt1.TabIndex = 0;
+            this.fourthattempt1.Text = "X";
             // 
             // panel4
             // 
-            this.panel4.Controls.Add(this.label16);
-            this.panel4.Controls.Add(this.label17);
-            this.panel4.Controls.Add(this.label18);
-            this.panel4.Controls.Add(this.label19);
-            this.panel4.Controls.Add(this.label20);
-            this.panel4.Location = new System.Drawing.Point(48, 183);
-            this.panel4.Margin = new System.Windows.Forms.Padding(2);
+            this.panel4.Controls.Add(this.thirdattempt5);
+            this.panel4.Controls.Add(this.thirdattempt2);
+            this.panel4.Controls.Add(this.thirdattempt3);
+            this.panel4.Controls.Add(this.thirdattempt4);
+            this.panel4.Controls.Add(this.thirdattempt1);
+            this.panel4.Location = new System.Drawing.Point(72, 282);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(193, 53);
+            this.panel4.Size = new System.Drawing.Size(290, 82);
             this.panel4.TabIndex = 6;
             // 
-            // label16
+            // thirdattempt5
             // 
-            this.label16.AutoSize = true;
-            this.label16.BackColor = System.Drawing.Color.Gray;
-            this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(147, 16);
-            this.label16.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(31, 29);
-            this.label16.TabIndex = 4;
-            this.label16.Text = "X";
+            this.thirdattempt5.AutoSize = true;
+            this.thirdattempt5.BackColor = System.Drawing.Color.Gray;
+            this.thirdattempt5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.thirdattempt5.Location = new System.Drawing.Point(220, 25);
+            this.thirdattempt5.Name = "thirdattempt5";
+            this.thirdattempt5.Size = new System.Drawing.Size(42, 40);
+            this.thirdattempt5.TabIndex = 4;
+            this.thirdattempt5.Text = "X";
             // 
-            // label17
+            // thirdattempt2
             // 
-            this.label17.AutoSize = true;
-            this.label17.BackColor = System.Drawing.Color.Gray;
-            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label17.Location = new System.Drawing.Point(51, 16);
-            this.label17.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(31, 29);
-            this.label17.TabIndex = 3;
-            this.label17.Text = "X";
+            this.thirdattempt2.AutoSize = true;
+            this.thirdattempt2.BackColor = System.Drawing.Color.Gray;
+            this.thirdattempt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.thirdattempt2.Location = new System.Drawing.Point(76, 25);
+            this.thirdattempt2.Name = "thirdattempt2";
+            this.thirdattempt2.Size = new System.Drawing.Size(42, 40);
+            this.thirdattempt2.TabIndex = 3;
+            this.thirdattempt2.Text = "X";
             // 
-            // label18
+            // thirdattempt3
             // 
-            this.label18.AutoSize = true;
-            this.label18.BackColor = System.Drawing.Color.Gray;
-            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(83, 16);
-            this.label18.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(31, 29);
-            this.label18.TabIndex = 2;
-            this.label18.Text = "X";
+            this.thirdattempt3.AutoSize = true;
+            this.thirdattempt3.BackColor = System.Drawing.Color.Gray;
+            this.thirdattempt3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.thirdattempt3.Location = new System.Drawing.Point(124, 25);
+            this.thirdattempt3.Name = "thirdattempt3";
+            this.thirdattempt3.Size = new System.Drawing.Size(42, 40);
+            this.thirdattempt3.TabIndex = 2;
+            this.thirdattempt3.Text = "X";
             // 
-            // label19
+            // thirdattempt4
             // 
-            this.label19.AutoSize = true;
-            this.label19.BackColor = System.Drawing.Color.Gray;
-            this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.Location = new System.Drawing.Point(115, 16);
-            this.label19.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(31, 29);
-            this.label19.TabIndex = 1;
-            this.label19.Text = "X";
+            this.thirdattempt4.AutoSize = true;
+            this.thirdattempt4.BackColor = System.Drawing.Color.Gray;
+            this.thirdattempt4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.thirdattempt4.Location = new System.Drawing.Point(172, 25);
+            this.thirdattempt4.Name = "thirdattempt4";
+            this.thirdattempt4.Size = new System.Drawing.Size(42, 40);
+            this.thirdattempt4.TabIndex = 1;
+            this.thirdattempt4.Text = "X";
             // 
-            // label20
+            // thirdattempt1
             // 
-            this.label20.AutoSize = true;
-            this.label20.BackColor = System.Drawing.Color.Gray;
-            this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.Location = new System.Drawing.Point(19, 16);
-            this.label20.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(31, 29);
-            this.label20.TabIndex = 0;
-            this.label20.Text = "X";
+            this.thirdattempt1.AutoSize = true;
+            this.thirdattempt1.BackColor = System.Drawing.Color.Gray;
+            this.thirdattempt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.thirdattempt1.Location = new System.Drawing.Point(28, 25);
+            this.thirdattempt1.Name = "thirdattempt1";
+            this.thirdattempt1.Size = new System.Drawing.Size(42, 40);
+            this.thirdattempt1.TabIndex = 0;
+            this.thirdattempt1.Text = "X";
             // 
             // panel5
             // 
-            this.panel5.Controls.Add(this.label21);
-            this.panel5.Controls.Add(this.label22);
-            this.panel5.Controls.Add(this.label23);
-            this.panel5.Controls.Add(this.label24);
-            this.panel5.Controls.Add(this.label25);
-            this.panel5.Location = new System.Drawing.Point(48, 354);
-            this.panel5.Margin = new System.Windows.Forms.Padding(2);
+            this.panel5.Controls.Add(this.sixthattempt5);
+            this.panel5.Controls.Add(this.sixthattempt2);
+            this.panel5.Controls.Add(this.sixthattempt3);
+            this.panel5.Controls.Add(this.sixthattempt4);
+            this.panel5.Controls.Add(this.sixthattempt1);
+            this.panel5.Location = new System.Drawing.Point(72, 545);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(193, 53);
+            this.panel5.Size = new System.Drawing.Size(290, 82);
             this.panel5.TabIndex = 9;
             // 
-            // label21
+            // sixthattempt5
             // 
-            this.label21.AutoSize = true;
-            this.label21.BackColor = System.Drawing.Color.Gray;
-            this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(147, 16);
-            this.label21.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(31, 29);
-            this.label21.TabIndex = 4;
-            this.label21.Text = "X";
+            this.sixthattempt5.AutoSize = true;
+            this.sixthattempt5.BackColor = System.Drawing.Color.Gray;
+            this.sixthattempt5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sixthattempt5.Location = new System.Drawing.Point(220, 25);
+            this.sixthattempt5.Name = "sixthattempt5";
+            this.sixthattempt5.Size = new System.Drawing.Size(42, 40);
+            this.sixthattempt5.TabIndex = 4;
+            this.sixthattempt5.Text = "X";
             // 
-            // label22
+            // sixthattempt2
             // 
-            this.label22.AutoSize = true;
-            this.label22.BackColor = System.Drawing.Color.Gray;
-            this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(51, 16);
-            this.label22.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(31, 29);
-            this.label22.TabIndex = 3;
-            this.label22.Text = "X";
+            this.sixthattempt2.AutoSize = true;
+            this.sixthattempt2.BackColor = System.Drawing.Color.Gray;
+            this.sixthattempt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sixthattempt2.Location = new System.Drawing.Point(76, 25);
+            this.sixthattempt2.Name = "sixthattempt2";
+            this.sixthattempt2.Size = new System.Drawing.Size(42, 40);
+            this.sixthattempt2.TabIndex = 3;
+            this.sixthattempt2.Text = "X";
             // 
-            // label23
+            // sixthattempt3
             // 
-            this.label23.AutoSize = true;
-            this.label23.BackColor = System.Drawing.Color.Gray;
-            this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(83, 16);
-            this.label23.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(31, 29);
-            this.label23.TabIndex = 2;
-            this.label23.Text = "X";
+            this.sixthattempt3.AutoSize = true;
+            this.sixthattempt3.BackColor = System.Drawing.Color.Gray;
+            this.sixthattempt3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sixthattempt3.Location = new System.Drawing.Point(124, 25);
+            this.sixthattempt3.Name = "sixthattempt3";
+            this.sixthattempt3.Size = new System.Drawing.Size(42, 40);
+            this.sixthattempt3.TabIndex = 2;
+            this.sixthattempt3.Text = "X";
             // 
-            // label24
+            // sixthattempt4
             // 
-            this.label24.AutoSize = true;
-            this.label24.BackColor = System.Drawing.Color.Gray;
-            this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(115, 16);
-            this.label24.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(31, 29);
-            this.label24.TabIndex = 1;
-            this.label24.Text = "X";
+            this.sixthattempt4.AutoSize = true;
+            this.sixthattempt4.BackColor = System.Drawing.Color.Gray;
+            this.sixthattempt4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sixthattempt4.Location = new System.Drawing.Point(172, 25);
+            this.sixthattempt4.Name = "sixthattempt4";
+            this.sixthattempt4.Size = new System.Drawing.Size(42, 40);
+            this.sixthattempt4.TabIndex = 1;
+            this.sixthattempt4.Text = "X";
             // 
-            // label25
+            // sixthattempt1
             // 
-            this.label25.AutoSize = true;
-            this.label25.BackColor = System.Drawing.Color.Gray;
-            this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(19, 16);
-            this.label25.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(31, 29);
-            this.label25.TabIndex = 0;
-            this.label25.Text = "X";
+            this.sixthattempt1.AutoSize = true;
+            this.sixthattempt1.BackColor = System.Drawing.Color.Gray;
+            this.sixthattempt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sixthattempt1.Location = new System.Drawing.Point(28, 25);
+            this.sixthattempt1.Name = "sixthattempt1";
+            this.sixthattempt1.Size = new System.Drawing.Size(42, 40);
+            this.sixthattempt1.TabIndex = 0;
+            this.sixthattempt1.Text = "X";
             // 
             // panel6
             // 
-            this.panel6.Controls.Add(this.label26);
-            this.panel6.Controls.Add(this.label27);
-            this.panel6.Controls.Add(this.label28);
-            this.panel6.Controls.Add(this.label29);
-            this.panel6.Controls.Add(this.label30);
-            this.panel6.Location = new System.Drawing.Point(48, 297);
-            this.panel6.Margin = new System.Windows.Forms.Padding(2);
+            this.panel6.Controls.Add(this.fifthattempt5);
+            this.panel6.Controls.Add(this.fifthattempt2);
+            this.panel6.Controls.Add(this.fifthattempt3);
+            this.panel6.Controls.Add(this.fifthattempt4);
+            this.panel6.Controls.Add(this.fifthattempt1);
+            this.panel6.Location = new System.Drawing.Point(72, 457);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(193, 53);
+            this.panel6.Size = new System.Drawing.Size(290, 82);
             this.panel6.TabIndex = 8;
             // 
-            // label26
+            // fifthattempt5
             // 
-            this.label26.AutoSize = true;
-            this.label26.BackColor = System.Drawing.Color.Gray;
-            this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(147, 16);
-            this.label26.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(31, 29);
-            this.label26.TabIndex = 4;
-            this.label26.Text = "X";
+            this.fifthattempt5.AutoSize = true;
+            this.fifthattempt5.BackColor = System.Drawing.Color.Gray;
+            this.fifthattempt5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fifthattempt5.Location = new System.Drawing.Point(220, 25);
+            this.fifthattempt5.Name = "fifthattempt5";
+            this.fifthattempt5.Size = new System.Drawing.Size(42, 40);
+            this.fifthattempt5.TabIndex = 4;
+            this.fifthattempt5.Text = "X";
             // 
-            // label27
+            // fifthattempt2
             // 
-            this.label27.AutoSize = true;
-            this.label27.BackColor = System.Drawing.Color.Gray;
-            this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label27.Location = new System.Drawing.Point(51, 16);
-            this.label27.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(31, 29);
-            this.label27.TabIndex = 3;
-            this.label27.Text = "X";
+            this.fifthattempt2.AutoSize = true;
+            this.fifthattempt2.BackColor = System.Drawing.Color.Gray;
+            this.fifthattempt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fifthattempt2.Location = new System.Drawing.Point(76, 25);
+            this.fifthattempt2.Name = "fifthattempt2";
+            this.fifthattempt2.Size = new System.Drawing.Size(42, 40);
+            this.fifthattempt2.TabIndex = 3;
+            this.fifthattempt2.Text = "X";
             // 
-            // label28
+            // fifthattempt3
             // 
-            this.label28.AutoSize = true;
-            this.label28.BackColor = System.Drawing.Color.Gray;
-            this.label28.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label28.Location = new System.Drawing.Point(83, 16);
-            this.label28.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(31, 29);
-            this.label28.TabIndex = 2;
-            this.label28.Text = "X";
+            this.fifthattempt3.AutoSize = true;
+            this.fifthattempt3.BackColor = System.Drawing.Color.Gray;
+            this.fifthattempt3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fifthattempt3.Location = new System.Drawing.Point(124, 25);
+            this.fifthattempt3.Name = "fifthattempt3";
+            this.fifthattempt3.Size = new System.Drawing.Size(42, 40);
+            this.fifthattempt3.TabIndex = 2;
+            this.fifthattempt3.Text = "X";
             // 
-            // label29
+            // fifthattempt4
             // 
-            this.label29.AutoSize = true;
-            this.label29.BackColor = System.Drawing.Color.Gray;
-            this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label29.Location = new System.Drawing.Point(115, 16);
-            this.label29.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(31, 29);
-            this.label29.TabIndex = 1;
-            this.label29.Text = "X";
+            this.fifthattempt4.AutoSize = true;
+            this.fifthattempt4.BackColor = System.Drawing.Color.Gray;
+            this.fifthattempt4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fifthattempt4.Location = new System.Drawing.Point(172, 25);
+            this.fifthattempt4.Name = "fifthattempt4";
+            this.fifthattempt4.Size = new System.Drawing.Size(42, 40);
+            this.fifthattempt4.TabIndex = 1;
+            this.fifthattempt4.Text = "X";
             // 
-            // label30
+            // fifthattempt1
             // 
-            this.label30.AutoSize = true;
-            this.label30.BackColor = System.Drawing.Color.Gray;
-            this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.Location = new System.Drawing.Point(19, 16);
-            this.label30.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(31, 29);
-            this.label30.TabIndex = 0;
-            this.label30.Text = "X";
+            this.fifthattempt1.AutoSize = true;
+            this.fifthattempt1.BackColor = System.Drawing.Color.Gray;
+            this.fifthattempt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fifthattempt1.Location = new System.Drawing.Point(28, 25);
+            this.fifthattempt1.Name = "fifthattempt1";
+            this.fifthattempt1.Size = new System.Drawing.Size(42, 40);
+            this.fifthattempt1.TabIndex = 0;
+            this.fifthattempt1.Text = "X";
             // 
             // InputTextBox
             // 
             this.InputTextBox.Enabled = false;
             this.InputTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.InputTextBox.Location = new System.Drawing.Point(48, 411);
-            this.InputTextBox.Margin = new System.Windows.Forms.Padding(2);
+            this.InputTextBox.Location = new System.Drawing.Point(72, 632);
             this.InputTextBox.Name = "InputTextBox";
-            this.InputTextBox.Size = new System.Drawing.Size(195, 35);
+            this.InputTextBox.Size = new System.Drawing.Size(290, 48);
             this.InputTextBox.TabIndex = 10;
             this.InputTextBox.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             this.InputTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
@@ -531,10 +494,9 @@
             // NewGameButton
             // 
             this.NewGameButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.NewGameButton.Location = new System.Drawing.Point(48, 447);
-            this.NewGameButton.Margin = new System.Windows.Forms.Padding(2);
+            this.NewGameButton.Location = new System.Drawing.Point(72, 688);
             this.NewGameButton.Name = "NewGameButton";
-            this.NewGameButton.Size = new System.Drawing.Size(193, 42);
+            this.NewGameButton.Size = new System.Drawing.Size(290, 65);
             this.NewGameButton.TabIndex = 11;
             this.NewGameButton.Text = "New Game";
             this.NewGameButton.UseVisualStyleBackColor = true;
@@ -542,10 +504,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Desktop;
-            this.ClientSize = new System.Drawing.Size(322, 514);
+            this.ClientSize = new System.Drawing.Size(483, 791);
             this.Controls.Add(this.NewGameButton);
             this.Controls.Add(this.InputTextBox);
             this.Controls.Add(this.panel5);
@@ -555,7 +517,6 @@
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel1);
             this.ForeColor = System.Drawing.SystemColors.Window;
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
@@ -590,29 +551,29 @@
         private System.Windows.Forms.Label secondattempt4;
         private System.Windows.Forms.Label secondattempt1;
         private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label fourthattempt5;
+        private System.Windows.Forms.Label fourthattempt2;
+        private System.Windows.Forms.Label fourthattempt3;
+        private System.Windows.Forms.Label fourthattempt4;
+        private System.Windows.Forms.Label fourthattempt1;
         private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Label thirdattempt5;
+        private System.Windows.Forms.Label thirdattempt2;
+        private System.Windows.Forms.Label thirdattempt3;
+        private System.Windows.Forms.Label thirdattempt4;
+        private System.Windows.Forms.Label thirdattempt1;
         private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Label sixthattempt5;
+        private System.Windows.Forms.Label sixthattempt2;
+        private System.Windows.Forms.Label sixthattempt3;
+        private System.Windows.Forms.Label sixthattempt4;
+        private System.Windows.Forms.Label sixthattempt1;
         private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.Label fifthattempt5;
+        private System.Windows.Forms.Label fifthattempt2;
+        private System.Windows.Forms.Label fifthattempt3;
+        private System.Windows.Forms.Label fifthattempt4;
+        private System.Windows.Forms.Label fifthattempt1;
         private System.Windows.Forms.TextBox InputTextBox;
         private System.Windows.Forms.Button NewGameButton;
     }

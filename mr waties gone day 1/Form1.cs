@@ -30,12 +30,7 @@ namespace mr_waties_gone_day_1
         public int attempts=0;
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (e.KeyChar == 13 && currentword == InputTextBox.Text)
-            {
-                MessageBox.Show("farrrt");
-                attempts++;
-            }
-            else if (e.KeyChar == 13 && currentword != InputTextBox.Text && currentword.Length==5)
+            if (e.KeyChar == 13 && currentword.Length==5)
             {
                 attempts++;
                 foreach (char letter in InputTextBox.Text)
@@ -76,10 +71,28 @@ namespace mr_waties_gone_day_1
                             secondattempt5.Text = currentguess[4] + "";
                             break;
                         case 3:
-                            MessageBox.Show("asdf");
+                            if (currentguess[0] == currentword[0]) { thirdattempt1.BackColor = Color.Green; } else if (currentword.Contains(currentguess[0]) == true) { thirdattempt1.BackColor = Color.Yellow; thirdattempt1.ForeColor = Color.Black; }
+                            thirdattempt1.Text = currentguess[0] + "";
+                            if (currentguess[1] == currentword[1]) { thirdattempt2.BackColor = Color.Green; } else if (currentword.Contains(currentguess[1]) == true) { thirdattempt2.BackColor = Color.Yellow; thirdattempt2.ForeColor = Color.Black; }
+                            thirdattempt2.Text = currentguess[1] + "";
+                            if (currentguess[2] == currentword[2]) { thirdattempt3.BackColor = Color.Green; } else if (currentword.Contains(currentguess[2]) == true) { thirdattempt3.BackColor = Color.Yellow; thirdattempt3.ForeColor = Color.Black; }
+                            thirdattempt3.Text = currentguess[2] + "";
+                            if (currentguess[3] == currentword[3]) { thirdattempt4.BackColor = Color.Green; } else if (currentword.Contains(currentguess[3]) == true) { thirdattempt4.BackColor = Color.Yellow; thirdattempt4.ForeColor = Color.Black; }
+                            thirdattempt4.Text = currentguess[3] + "";
+                            if (currentguess[4] == currentword[4]) { thirdattempt5.BackColor = Color.Green; } else if (currentword.Contains(currentguess[4]) == true) { thirdattempt5.BackColor = Color.Yellow; thirdattempt5.ForeColor = Color.Black; }
+                            thirdattempt5.Text = currentguess[4] + "";
                             break;
                         case 4:
-                            MessageBox.Show("asdf");
+                            if (currentguess[0] == currentword[0]) { fourthattempt1.BackColor = Color.Green; } else if (currentword.Contains(currentguess[0]) == true) { fourthattempt1.BackColor = Color.Yellow; fourthattempt1.ForeColor = Color.Black; }
+                            fourthattempt1.Text = currentguess[0] + "";
+                            if (currentguess[1] == currentword[1]) { fourthattempt2.BackColor = Color.Green; } else if (currentword.Contains(currentguess[1]) == true) { fourthattempt2.BackColor = Color.Yellow; fourthattempt2.ForeColor = Color.Black; }
+                            fourthattempt2.Text = currentguess[1] + "";
+                            if (currentguess[2] == currentword[2]) { fourthattempt3.BackColor = Color.Green; } else if (currentword.Contains(currentguess[2]) == true) { fourthattempt3.BackColor = Color.Yellow; fourthattempt3.ForeColor = Color.Black; }
+                            fourthattempt3.Text = currentguess[2] + "";
+                            if (currentguess[3] == currentword[3]) { fourthattempt4.BackColor = Color.Green; } else if (currentword.Contains(currentguess[3]) == true) { fourthattempt4.BackColor = Color.Yellow; fourthattempt4.ForeColor = Color.Black; }
+                            fourthattempt4.Text = currentguess[3] + "";
+                            if (currentguess[4] == currentword[4]) { fourthattempt5.BackColor = Color.Green; } else if (currentword.Contains(currentguess[4]) == true) { fourthattempt5.BackColor = Color.Yellow; fourthattempt5.ForeColor = Color.Black; }
+                            fourthattempt5.Text = currentguess[4] + "";
                             break;
                         case 5:
                             MessageBox.Show("asdf");
