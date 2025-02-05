@@ -95,10 +95,28 @@ namespace mr_waties_gone_day_1
                             fourthattempt5.Text = currentguess[4] + "";
                             break;
                         case 5:
-                            MessageBox.Show("asdf");
+                            if (currentguess[0] == currentword[0]) { fifthattempt1.BackColor = Color.Green; } else if (currentword.Contains(currentguess[0]) == true) { fifthattempt1.BackColor = Color.Yellow; fifthattempt1.ForeColor = Color.Black; }
+                            fifthattempt1.Text = currentguess[0] + "";
+                            if (currentguess[1] == currentword[1]) { fifthattempt2.BackColor = Color.Green; } else if (currentword.Contains(currentguess[1]) == true) { fifthattempt2.BackColor = Color.Yellow; fifthattempt2.ForeColor = Color.Black; }
+                            fifthattempt2.Text = currentguess[1] + "";
+                            if (currentguess[2] == currentword[2]) { fifthattempt3.BackColor = Color.Green; } else if (currentword.Contains(currentguess[2]) == true) { fifthattempt3.BackColor = Color.Yellow; fifthattempt3.ForeColor = Color.Black; }
+                            fifthattempt3.Text = currentguess[2] + "";
+                            if (currentguess[3] == currentword[3]) { fifthattempt4.BackColor = Color.Green; } else if (currentword.Contains(currentguess[3]) == true) { fifthattempt4.BackColor = Color.Yellow; fifthattempt4.ForeColor = Color.Black; }
+                            fifthattempt4.Text = currentguess[3] + "";
+                            if (currentguess[4] == currentword[4]) { fifthattempt5.BackColor = Color.Green; } else if (currentword.Contains(currentguess[4]) == true) { fifthattempt5.BackColor = Color.Yellow; fifthattempt5.ForeColor = Color.Black; }
+                            fifthattempt5.Text = currentguess[4] + "";
                             break;
                         case 6:
-                            MessageBox.Show("asdf");
+                            if (currentguess[0] == currentword[0]) { sixthattempt1.BackColor = Color.Green; } else if (currentword.Contains(currentguess[0]) == true) { sixthattempt1.BackColor = Color.Yellow; sixthattempt1.ForeColor = Color.Black; }
+                            sixthattempt1.Text = currentguess[0] + "";
+                            if (currentguess[1] == currentword[1]) { sixthattempt2.BackColor = Color.Green; } else if (currentword.Contains(currentguess[1]) == true) { sixthattempt2.BackColor = Color.Yellow; sixthattempt2.ForeColor = Color.Black; }
+                            sixthattempt2.Text = currentguess[1] + "";
+                            if (currentguess[2] == currentword[2]) { sixthattempt3.BackColor = Color.Green; } else if (currentword.Contains(currentguess[2]) == true) { sixthattempt3.BackColor = Color.Yellow; sixthattempt3.ForeColor = Color.Black; }
+                            sixthattempt3.Text = currentguess[2] + "";
+                            if (currentguess[3] == currentword[3]) { sixthattempt4.BackColor = Color.Green; } else if (currentword.Contains(currentguess[3]) == true) { sixthattempt4.BackColor = Color.Yellow; sixthattempt4.ForeColor = Color.Black; }
+                            sixthattempt4.Text = currentguess[3] + "";
+                            if (currentguess[4] == currentword[4]) { sixthattempt5.BackColor = Color.Green; } else if (currentword.Contains(currentguess[4]) == true) { sixthattempt5.BackColor = Color.Yellow; sixthattempt5.ForeColor = Color.Black; }
+                            sixthattempt5.Text = currentguess[4] + "";
                             break;
                     }
 
